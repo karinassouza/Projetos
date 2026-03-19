@@ -1,6 +1,6 @@
-# ⚡ Calculadora de Consumo de Energia
+⚡ Calculadora de Consumo de Energia
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-Repositório-black?logo=github)
 ![Energia](https://img.shields.io/badge/Energia-Elétrica-yellow)
 
